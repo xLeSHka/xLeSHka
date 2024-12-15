@@ -4,8 +4,7 @@
 ## My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,cpp,md" alt="languages"/><br />
-    <img src="https://skillicons.dev/icons?i=c#" alt="frameworks and libs"/><br />
+    <img src="https://skillicons.dev/icons?i=golang,cpp,md,c#" alt="languages"/><br />
     <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,postman,git,obsidian" alt="apps"/><br />
   </a>
 </p>
