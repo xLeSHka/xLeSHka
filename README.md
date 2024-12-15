@@ -1,11 +1,9 @@
 - 👋 Hi, I’m xLeSHka
 - 👀 I’m interested in Backend-Development and algorithms
 - 🌱 I’m currently learning Golang & C++
-## My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=golang,cpp,md,c#" alt="languages"/><br />
-    <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,postman,git,obsidian" alt="apps"/><br />
+    <img src="https://skillicons.dev/icons?i=golang,cpp,md,c#,postgresql,redis,docker,postman,git,obsidian" alt="languages"/><br />
   </a>
 </p>
 
